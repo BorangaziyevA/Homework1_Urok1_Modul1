@@ -7,10 +7,29 @@ int main()
 	setlocale(LC_ALL, "");
 
 
-
-
+	//ПЯТОЕ ТАКОЕ ЖЕ КАК И ЧЕТВЕРТОЕ
 
 	/*4.	Даны два ненулевых числа.Найти сумму, разность, произведение и частное их квадратов.*/
+
+
+	//int a, b;
+	//printf("a= ");
+	//scanf_s("%d", &a);
+	
+	//printf("b= ");
+	//scanf_s("%d", &b);
+
+	//int sum = a + b;
+	//printf("Сумма = ");
+	//printf("%d\n", sum);
+
+	//int raz = a - b;
+	//printf("Разность чисел = ");
+	//printf("%d\n", raz);
+
+	//float pro = a / b;
+	//printf("Произведение чисел = ");
+	//printf("%f\n", pro);
 
 
 
@@ -22,7 +41,7 @@ int main()
 	//printf("y= ");
 	//scanf_s("%d", &y);
 	//
-	//int z = x * y;
+	//int z = x + y;
 	//printf("Сумма = ");
 	//printf("%d\n", z);
 
